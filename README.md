@@ -10,3 +10,9 @@ To run this project, you need the following software and toolboxes:
 - **Communication Toolbox**
 - **Control Systems Toolbox**
 
+## How to Use
+- Load **Core_Communication_System_Model.slx**
+- Run **Model_Parameters.m**
+- Update "From Multimedia" Block in simulation to audio file of your choice.
+- Run simulation
+
